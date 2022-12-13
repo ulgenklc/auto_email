@@ -1,2 +1,2 @@
 # auto_email
-Automating sending emails on Gmail via smtplib
+Automating sending emails on Gmail via smtplib.
